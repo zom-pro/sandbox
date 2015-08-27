@@ -2,8 +2,6 @@ class MyDict():
     def __init__(self, default_value):
         # default value to be used when key isn't found.
         self.default_value = default_value
-
-        # calling standard dict with no args
         self._d = dict()
     def __setitem__(self, key, value):
         return self._d.__setitem__(key, value)
