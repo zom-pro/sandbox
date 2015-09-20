@@ -6,5 +6,5 @@ This repository contains snippets of code and experiments.
 
 1 python
     * my_collections: a couple of snippets using defaultdict and deque.
-    * flowtime: experiments with flowtime.js javascript library for online presentations
+    * property: getter setters (kind of java style, for people coming from there) and the property decorator
     
